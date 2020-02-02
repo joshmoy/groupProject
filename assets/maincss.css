@@ -128,3 +128,7 @@ th{
   text-align: center;
   color: #b80c09;
 }
+
+.remove {
+	display: none;
+}
